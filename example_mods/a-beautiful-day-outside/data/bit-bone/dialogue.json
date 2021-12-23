@@ -1,0 +1,18 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.03,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hola sans!!1"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "te voy a sacar la cresta!!!!!!!!"
+		}
+	]
+}

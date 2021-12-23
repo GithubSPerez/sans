@@ -1,0 +1,2 @@
+handles the story mode textbox for the song
+(put it anywhere)

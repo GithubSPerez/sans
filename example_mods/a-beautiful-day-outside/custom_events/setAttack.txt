@@ -1,0 +1,2 @@
+set the attack
+value 1 - attack

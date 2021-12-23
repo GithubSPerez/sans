@@ -1,0 +1,48 @@
+{
+	"storyName": "A beautiful day outside",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		168,
+		168,
+		168
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"menu_sans",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Bit-Bone",
+			"sans",
+			[
+				168,
+				168,
+				168
+			]
+		],
+		[
+			"Fracture",
+			"sans",
+			[
+				55,
+				117,
+				186
+			]
+		],
+		[
+			"Spine-Crusher",
+			"sans",
+			[
+				46,
+				33,
+				33
+			]
+		]
+	],
+	"weekName": "day"
+}
